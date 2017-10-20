@@ -29,6 +29,7 @@ But knowing the stuff will help you become better! :muscle:*
 - [Big O Cheatsheet](http://bigocheatsheet.com/)
 - :book: [Grokking Algorithms](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
 - [Algorithms Visualization](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+- [Algorithm and Data Structure Visualization through animation](https://visualgo.net/en)
 
 ### Data Structures
 - :movie_camera: [UC Berkeley, Data Structures Course](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd)
@@ -133,6 +134,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :zap: [NomadList](https://nomadlist.com/)
 - :book: [The Ultimate Guide to Remote Work](https://zapier.com/learn/remote-work/)
 - :house: [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
+- :house: [An 'Awesome List' of websites/apps to check out for Remote Jobs.](https://github.com/raynesio/remote-jobs-list)
 
 ### Engineering Philosophy
 - :movie_camera: [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy)
